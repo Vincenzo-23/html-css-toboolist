@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(241, 239, 239);
+}
+
+
+
+.header-bar{
+background-color: white;
+margin-bottom: 50px;
+
+}
+
+.logo{
+    vertical-align: middle;
+    width: 100px;
+}
+
+
+
+.header-title{
+    display: inline-block;
+    font-size: 62px;
+}
+
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+    }
+
+
+    nav{
+        background-color: white;
+        height: 40px;
+    }
+
+    .nav-button{
+        margin: 10px;
+        margin-left: 0;
+    }
